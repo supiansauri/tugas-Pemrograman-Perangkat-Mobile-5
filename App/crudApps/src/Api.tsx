@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://429xjw2w-5000.asse.devtunnels.ms/items'; // Sesuaikan dengan URL API Anda
+const API_URL = 'https://9nmlpf1g-5000.asse.devtunnels.ms/items'; // Sesuaikan dengan URL API Anda
 
 export interface Item {
   id: number;
